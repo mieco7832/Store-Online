@@ -25,7 +25,7 @@ Proyecto en PHP:
 7. Verificar los datos para password y user en el proyecto php, la clase se llama Conector
 8. Todo Listo
 
-- Ejemplo 
+- Ejemplo
 
 1. Servidor Xampp para php, en la carpeta de descargar copiar el archivo perteneciente al proyecto: Folder/Store Online/App
 2. C:/xampp/htdocs -paste
@@ -41,4 +41,4 @@ Proyecto en PHP:
 [* **Manuel Iván Escobar Castillo**](https://github.com/mieco7832) - *Trabajo Inicial y Documentación*
 
 ## Licencia
-> MIT License [read](https://github.com/mieco7832/Store-Online)
+> MIT License [read](https://github.com/mieco7832/Store-Online/Copyright%MIT)
