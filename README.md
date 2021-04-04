@@ -27,12 +27,12 @@ Servidor para MySql.
 
 - Ejemplo -
 
--- Servidor Xampp para php, en la carpeta de descargar copiar el archivo perteneciente al proyecto: Folder/Store Online/App
--- C:/xampp/htdocs -paste
--- Folder/Store Online/database/backup.sql -copy
--- En Workbench abrir el archivo backup.sql / Exccute Query
--- Verificar datos, C:/xampp/htdocs/app/classes/Conector.php: $db = new PDO("mysql:host=<hostname>;dbname=store_online", "<user>", "<password>");
--- Correr la aplicación, en el navegador escribe la dirección para acceder, ejemplo: localhost:8080/app  
+-- Servidor Xampp para php, en la carpeta de descargar copiar el archivo perteneciente al proyecto: Folder/Store Online/App \n
+-- C:/xampp/htdocs -paste \n
+-- Folder/Store Online/database/backup.sql -copy \n
+-- En Workbench abrir el archivo backup.sql / Exccute Query \n
+-- Verificar datos, C:/xampp/htdocs/app/classes/Conector.php: $db = new PDO('mysql:host=<hostname>;dbname=store_online', '<user>', '<password>'); \n
+-- Correr la aplicación, en el navegador escribe la dirección para acceder, ejemplo: localhost:8080/app  \n
 
     <http://<hostname>:<portnumber>/<folder>>
 
