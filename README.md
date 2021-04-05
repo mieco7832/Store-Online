@@ -41,4 +41,4 @@ Proyecto en PHP:
 [* **Manuel Iván Escobar Castillo**](https://github.com/mieco7832) - *Trabajo Inicial y Documentación*
 
 ## Licencia
-> MIT License [read](https://github.com/mieco7832/Store-Online/blob/feature/Copyright%20MIT)
+> MIT License [read](https://github.com/mieco7832/Store-Online/Copyright%MIT)

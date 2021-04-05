@@ -1,0 +1,24 @@
+:root {
+  --primary: #464646;
+  --secondary: #ff0066;
+  --background: aliceblue;
+}
+
+.theme-dark {
+  --primary: #f8f8f8;
+  --secondary: #ff0066;
+  --background: #2B2F3F;
+}
+
+
+body{
+  background-color: var(--background);
+}
+
+p {
+  color: var(--primary);
+}
+
+strong {
+  color: var(--secondary);
+}
